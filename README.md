@@ -25,29 +25,14 @@ Accuracy: ~66%
 
 Key Insight: Predicting student outcomes from profile-only data is hard. Model performed better at predicting who will pass than who will fail.
 
-📁 Dataset Features
-Column	Description
-gender	Student gender (male/female)
-race/ethnicity	Group (A, B, C, D, E)
-parental level of education	Highest education of parent
-lunch	Standard or free/reduced lunch
-test preparation course	Completed or not completed
-math score	Out of 100
-reading score	Out of 100
-writing score	Out of 100
 
 📌 Tools & Libraries
-Python
-
-Pandas
-
-Matplotlib
-
-Seaborn
-
-Scikit-learn
-
-XGBoost
+-Python
+-Pandas
+-Matplotlib
+-Seaborn
+-Scikit-learn
+-XGBoost
 
 🎓 Key Takeaways
 Machine Learning needs strong signal; profile data has limited predictive power
